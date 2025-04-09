@@ -1,0 +1,7 @@
+# Ignore Word files
+*.docx
+*.doc
+
+# Ignore PowerPoint files
+*.pptx
+*.ppt
